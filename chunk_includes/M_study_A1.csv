@@ -5,9 +5,9 @@
 8,capacity,capacity.wav,capacity.png,VisNoG
     ,,blank.wav,x.png,
 4,father,father.wav,father.png,AudNoG
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 1,price,price.wav,price.png,AudCong
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 2,filter,filter.wav,filter.png,AudIncon
     ,,blank.wav,nose.png,
 3,group,group.wav,group.png,AudIrre
@@ -15,35 +15,35 @@
 3,man,man.wav,man.png,AudIrre
     ,,blank.wav,x.png,
 4,security,security.wav,security.png,AudNoG
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 5,class,class.wav,class.png,VisCong
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 5,spy,spy.wav,spy.png,VisCong
     ,,blank.wav,nose.png,
 7,company,company.wav,company.png,VisIrre
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 2,direction,direction.wav,direction.png,AudIncon
     ,,blank.wav,x.png,
 8,syringe,syringe.wav,syringe.png,VisNoG
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 6,person,person.wav,person.png,VisIncon
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 1,world,world.wav,world.png,AudCong
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 5,difference,difference.wav,difference.png,VisCong
     ,,blank.wav,x.png,
 4,yesterday,yesterday.wav,yesterday.png,AudNoG
     ,,blank.wav,nose.png,
 3,nature,nature.wav,nature.png,AudIrre
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 2,caramel,caramel.wav,caramel.png,AudIncon
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 1,eraser,eraser.wav,eraser.png,AudCong
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 5,chalk,chalk.wav,chalk.png,VisCong
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 6,agility,agility.wav,agility.png,VisIncon
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 6,worm,worm.wav,worm.png,VisIncon
     ,,blank.wav,nose.png,
 7,fear,fear.wav,fear.png,VisIrre
@@ -51,7 +51,7 @@
 8,strength,strength.wav,strength.png,VisNoG
     ,,blank.wav,nose.png,
 7,eye,eye.wav,eye.png,VisIrre
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 6,rhyme,rhyme.wav,rhyme.png,VisIncon
     ,,blank.wav,nose.png,
 3,hail,hail.wav,hail.png,AudIrre
@@ -59,17 +59,17 @@
 4,month,month.wav,month.png,AudNoG
     ,,blank.wav,nose.png,
 7,head,head.wav,head.png,VisIrre
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 1,lobster,lobster.wav,lobster.png,AudCong
     ,,blank.wav,nose.png,
 7,space,space.wav,space.png,VisIrre
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 2,coffin,coffin.wav,coffin.png,AudIncon
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 1,freezer,freezer.wav,freezer.png,AudCong
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 5,existence,existence.wav,existence.png,VisCong
-    ,,blank.wav,ear.png,
+    ,,blank.wav,aud.png,
 6,bookcase,bookcase.wav,bookcase.png,VisIncon
     ,,blank.wav,x.png,
 8,biologist,biologist.wav,biologist.png,VisNoG
@@ -77,5 +77,5 @@
 8,energy,energy.wav,energy.png,VisNoG
     ,,blank.wav,x.png,
 4,ounce,ounce.wav,ounce.png,AudNoG
-    ,,blank.wav,eye.png,
+    ,,blank.wav,vis.png,
 2,action,action.wav,action.png,AudIncon
